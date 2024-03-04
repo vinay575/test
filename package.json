@@ -1,0 +1,39 @@
+{
+  "name": "port",
+  "version": "1.0.0",
+  "description": "react ",
+  "source": "/src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay575/portfolio.git"
+  },
+  "keywords": [
+    "port"
+  ],
+  "author": "vinay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinay575/portfolio/issues"
+  },
+  "homepage": "https://github.com/vinay575/portfolio#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.159.0",
+    "threejs-toys": "^0.0.8",
+    "typed.js": "^2.1.0"
+  }
+}
